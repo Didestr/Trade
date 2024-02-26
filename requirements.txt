@@ -1,0 +1,7 @@
+pandas==2.0.0
+pandas-ta==0.3.14b0
+pyTelegramBotAPI==4.15.3
+binance-futures-connector==4.0.0
+tinkoff-investments==0.2.0b63
+matplotlib==3.8.2
+pillow==10.2.0
